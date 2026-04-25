@@ -3,7 +3,7 @@
 ## Overview
 This project implements a complete RNA-seq analysis pipeline using HISAT2 for alignment, followed by transcript assembly and differential gene expression analysis.
 
-## 🔧 Tools Used
+##  Tools Used
 - HISAT2 (Alignment)
 - SAMtools (File processing)
 - StringTie (Transcript assembly)
