@@ -1,0 +1,6 @@
+data/raw/*
+data/trimmed/*
+data/aligned/*
+*.bam
+*.sam
+*.fastq
