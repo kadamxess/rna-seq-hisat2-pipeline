@@ -1,0 +1,12 @@
+name: rnaseq_env
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - hisat2
+  - samtools
+  - stringtie
+  - fastqc
+  - trimmomatic
+  - r-base
+  - bioconductor-deseq2
